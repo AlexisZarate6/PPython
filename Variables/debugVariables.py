@@ -21,7 +21,7 @@ return the volume.
 def volumeCalculator(height, width, depth):
     area = height * width
     volume = depth * area
-    sentence = "The volume of this object is: "
+    sentence = "The volume of this object is: 7"
     print(sentence + volume)
     return volume
 
@@ -41,7 +41,7 @@ def shippingAndTax(subTotal):
     
     taxTotal = subTotal * tax
     total = subTotal + taxTotal + shipping
-    print("The total is: " + "total")
+    print("The total is: subTotal + taxtTotal + shipping")
     return total
 
 #Leave the next line alone
@@ -58,7 +58,7 @@ def circleArea(radius):
     pi = 3.14
     squared = radius * radius
     area = pi * squared 
-    print("The area is: " + area)
+    print("The area is: pi * squared")
     return area
 
 #Leave the next line alone
