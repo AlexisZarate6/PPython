@@ -21,7 +21,7 @@ return the volume.
 def volumeCalculator(height, width, depth):
     area = height * width
     volume = depth * area
-    sentence = "The volume of this object is: 7"
+    sentence = "The volume of this object is: depth * area"
     print(sentence + volume)
     return volume
 
