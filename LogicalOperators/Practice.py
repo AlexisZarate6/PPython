@@ -34,4 +34,9 @@ print(c)
 
 #4) Make a logical expression with one of the common SYNTAX errors.
 
-or 4==5 
+ a = "word"
+ b = "word"
+word = "incorrect"
+a == b and b == word
+
+
