@@ -2,12 +2,40 @@
 -- START DISKCACHE_3
 C:\Users\ITAUser\Desktop\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\Variables\com.python.pydev.analysis\v2_indexcache
 variablesOutline|1604553573120838900|C:\Users\ITAUser\Desktop\Python\Variables\variablesOutline.py
+drillsVariables|1604719361744291100|C:\Users\ITAUser\Desktop\Python\Variables\drillsVariables.py
+debugVariables|1604828113281901200|C:\Users\ITAUser\Desktop\Python\Variables\debugVariables.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+4
+1=C:\Users\ITAUser\Desktop\Python\Variables\drillsVariables.py
+2=drillsVariables
+3=C:\Users\ITAUser\Desktop\Python\Variables\debugVariables.py
+4=debugVariables
 -- END DICTIONARY
 -- START TREE 1
-0
+22
+a|1|a!1^35#1*19@
+alm|1|almostDone!1^102#1*19@
+b|1|b!1^40#1*19@
+c|1|c!1^45#1*19@
+cir|1|circleArea!3^57#5*34@
+d|1|d!1^50#1*19@
+don|1|done!1^82#1*19@
+e|1|e!1^61#1*19@
+f|1|f!1^66#1*19@
+g|1|g!1^71#1*19@
+h|1|h!1^76#1*19@
+i|1|i!1^92#1*19@
+j|1|j!1^97#1*19@
+lis|3|listString!1^116#1*19@listInt!1^108#1*19@listBoolean!1^123#1*19@
+nam|1|name!1^56#1*19@
+shi|1|shippingAndTax!3^38#5*34@
+sma|1|smart!1^87#1*19@
+var|3|var2!1^9#1*19@var1!1^4#1*19@var3!1^14#1*19@
+vol|1|volumeCalculator!3^21#5*34@
+x|1|x!1^19#1*19@
+y|1|y!1^24#1*19@
+z|1|z!1^30#1*19@
 -- END TREE
 -- START TREE 2
 0

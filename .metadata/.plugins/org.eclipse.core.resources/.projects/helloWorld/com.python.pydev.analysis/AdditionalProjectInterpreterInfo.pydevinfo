@@ -1,12 +1,28 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\ITAUser\Desktop\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\helloWorld\com.python.pydev.analysis\v2_indexcache
+variablesoutline|1604823624969954500|C:\Users\ITAUser\Desktop\Python\helloWorld\variablesoutline.py
+Zarate|1604100401312160200|C:\Users\ITAUser\Desktop\Python\helloWorld\Zarate.py
+finallyDone|1604555572263996400|C:\Users\ITAUser\Desktop\Python\helloWorld\finallyDone.py
+helloWorld|1604099791967069900|C:\Users\ITAUser\Desktop\Python\helloWorld\helloWorld.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+4
+2=variablesoutline
+3=C:\Users\ITAUser\Desktop\Python\helloWorld\finallyDone.py
+1=C:\Users\ITAUser\Desktop\Python\helloWorld\variablesoutline.py
+4=finallyDone
 -- END DICTIONARY
 -- START TREE 1
-0
+8
+a|2|a!1^4#1*19@a!3^10#1*35@
+ale|1|alexis!3^90#1*35@
+b|1|b!3^53#1*35@
+lis|3|list!1^43#1*19@listVar!3^60#1*35@list!3^55#1*35@
+nam|2|name!1^15#1*19@name!3^21#1*35@
+str|2|string!3^64#1*35@string!1^47#1*19@
+tit|1|Titles!3^95#1*35@
+var|9|varTwo!3^50#1*35@varTwo!1^41#1*19@varA!1^33#1*19@vara!1^34#1*19@var!3^47#1*35@varA!3^40#1*35@vara!3^41#1*35@var!1^37#1*19@varThree!3^86#1*35@
 -- END TREE
 -- START TREE 2
 0
